@@ -22,7 +22,15 @@ credit_card_data = pd.read_csv("creditcard.csv")
 
 # In[3]:
 
+#Data-preprocessing
 
+"""
+Data Preprocessing Utilities for Credit Card Fraud Detection
+============================================================
+
+This module provides utility functions for preprocessing credit card transaction data,
+including data cleaning, validation, and preparation for machine learning models.
+"""
 #first 5 rows of the dataset
 credit_card_data.head()
 
@@ -152,6 +160,7 @@ print(Y)
 
 # In[20]:
 
+#Model Training
 
 X_train, X_test,Y_train,Y_test = train_test_split(X,Y,test_size=0.2,stratify=Y,random_state=2)
 
@@ -161,6 +170,13 @@ X_train, X_test,Y_train,Y_test = train_test_split(X,Y,test_size=0.2,stratify=Y,r
 
 print(X.shape,X_train.shape,X_test.shape)
 
+"""
+Model Evaluation Utilities for Credit Card Fraud Detection
+==========================================================
+
+This module provides comprehensive model evaluation metrics and reporting
+utilities for assessing fraud detection model performance.
+"""
 
 # #Model Training
 
