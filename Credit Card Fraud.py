@@ -23,6 +23,14 @@ credit_card_data = pd.read_csv("creditcard.csv")
 # In[3]:
 
 #Data-preprocessing
+
+"""
+Data Preprocessing Utilities for Credit Card Fraud Detection
+============================================================
+
+This module provides utility functions for preprocessing credit card transaction data,
+including data cleaning, validation, and preparation for machine learning models.
+"""
 #first 5 rows of the dataset
 credit_card_data.head()
 
