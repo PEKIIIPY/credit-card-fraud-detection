@@ -170,6 +170,13 @@ X_train, X_test,Y_train,Y_test = train_test_split(X,Y,test_size=0.2,stratify=Y,r
 
 print(X.shape,X_train.shape,X_test.shape)
 
+"""
+Model Evaluation Utilities for Credit Card Fraud Detection
+==========================================================
+
+This module provides comprehensive model evaluation metrics and reporting
+utilities for assessing fraud detection model performance.
+"""
 
 # #Model Training
 
