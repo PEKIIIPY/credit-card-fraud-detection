@@ -22,7 +22,7 @@ credit_card_data = pd.read_csv("creditcard.csv")
 
 # In[3]:
 
-
+#Data-preprocessing
 #first 5 rows of the dataset
 credit_card_data.head()
 
